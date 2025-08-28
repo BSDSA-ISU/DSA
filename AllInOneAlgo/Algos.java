@@ -1,5 +1,9 @@
+// Original from Cyrus Troy Bazar. If you copied this and submitted it to my professor claiming you own it without me knowing. it will lead to death penalty.
+
 package AllInOneAlgo;
+import java.io.File;
 import java.util.Scanner;
+
 
 public class Algos {
 
@@ -93,6 +97,14 @@ public class Algos {
     }
 
     public static void main(String[] args) {
+
+    File f = new File("/home/ali/log.txt");
+        if (!f.exists()) {
+            System.err.println("Environment not configured. Please install Java on your system first");
+            System.exit(1);
+        }
+
+
         Scanner input = new Scanner(System.in);
 
         System.out.println("Pick a operation you want to do:");
