@@ -13,7 +13,7 @@ public class Algos {
     public static void TowerOfHanoi(int n, String source, String destination, String aux) {
         
         if (n==1) {
-            System.out.println("move disk 1 from source " + source + " to destination, " + destination);
+            System.out.println("move disk 1 from source " + source + " to destination " + destination);
             return;
         }
 
@@ -127,7 +127,7 @@ public class Algos {
             System.out.println("The Factorial of "+ x + " is: " + answer);
         }
         if (i == 2) {
-            TowerOfHanoi(x, "A", "B", "C");
+            TowerOfHanoi(x, "A", "C", "B");
         }
         if (i == 3) {
             FibonacciRecursion(x);
