@@ -12,9 +12,9 @@
 ### why?
 
 - because we barely learn java during our programming 1 and programming 2
-- and also we're learning 2 programming languages already
+- and also we are learning 2 programming languages already!!!
 
-### why they forced java in your course, Why not R, sql and Python?
+### why they forced java in your course? Why not R, sql and Python?
 
 - because they said Java i easier than python. .I don't think so though
 
