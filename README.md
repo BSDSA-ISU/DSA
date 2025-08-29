@@ -1,12 +1,11 @@
 # Data Structure algorithm codes of Studies!!!! By Students
 
-## we are  students by Sir Jonathan. ts is hard
-
 ## what we're doing on this subject?
 
-- listening and forgeting it when we exit the classroom
+- algorithms.
+- learning how to use recursions and stuffs
 
-### Is this subject cool?
+### Is this subject/course cool and fun?
 
 - no
 
@@ -23,4 +22,4 @@
 
 ![Alt Text](https://media.tenor.com/5tvr3R-VgtEAAAAi/kyoko-toshino.gif)
 
-copyleft @ BSDSA
+copyleft @ BSDSA-2
